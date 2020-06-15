@@ -2053,6 +2053,8 @@ b, strong {
 	-moz-transition: opacity 400ms ease-in;
 	transition: opacity 400ms ease-in;
 	pointer-events: none;
+	/* max-height: calc(100vh - 210px); */
+    overflow-y: auto;
 }
 
 .modalDialog:target {
