@@ -1838,7 +1838,7 @@ input, select, textarea {
 				z-index: 10001;
 				/* color: #fff; */
 				color: #fff;
-				background: url("images/bg04.jpg");
+				background: url("images/bg05.png");
 				box-shadow: inset 0px -20px 70px 0px rgba(200, 220, 245, 0.1), inset 0px -1px 0px 0px rgba(255, 255, 255, 0.1), 0px 1px 7px 0px rgba(0, 0, 0, 0.6);
 				text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);
 			}
@@ -1849,6 +1849,11 @@ input, select, textarea {
 					font-size: 1.2em;
 					font-weight: 400;
 					line-height: 48px;
+					float: left;
+
+					text-indent: 100%;
+    				white-space: nowrap;
+    				overflow: hidden;
 				}
 
 				#titleBar .toggle {
@@ -1879,7 +1884,7 @@ input, select, textarea {
 						position: absolute;
 						width: 20px;
 						height: 30px;
-						background: url("images/mobileUI-site-nav-opener-bg.svg");
+						background: url("images/mobileUI-site-nav-opener-bg.svg"); 
 						top: 15px;
 						left: 20px;
 						z-index: 1;
@@ -1911,7 +1916,7 @@ input, select, textarea {
 				top: 0;
 				width: 275px;
 				z-index: 10002;
-				background: url("images/bg04.jpg");
+				background: url("images/bg03.jpg");
 				box-shadow: inset -1px 0px 0px 0px rgba(255, 255, 255, 0.25), inset -2px 0px 25px 0px rgba(0, 0, 0, 0.5);
 				text-shadow: -1px -1px 1px black;
 			}
