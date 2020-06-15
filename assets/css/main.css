@@ -1471,12 +1471,12 @@ input, select, textarea {
 		}
 
 	.button-large {
-		background-image: -moz-linear-gradient(top, #ed391b, #ce1a00);
-		background-image: -webkit-linear-gradient(top, #ed391b, #ce1a00);
-		background-image: -ms-linear-gradient(top, #ed391b, #ce1a00);
-		background-image: linear-gradient(top, #ed391b, #ce1a00);
+		background-image: -moz-linear-gradient(top, #e82d40, #c72535); /* #ed391b, #ce1a00 */
+		background-image: -webkit-linear-gradient(top, #e82d40, #c72535); /* #ed391b, #ce1a00 */
+		background-image: -ms-linear-gradient(top, #e82d40, #c72535); /* #ed391b, #ce1a00 */
+		background-image: linear-gradient(top, #e82d40, #c72535); /* #ed391b, #ce1a00 */
 		display: inline-block;
-		background-color: #ed391b;
+		background-color: #e82d40; /* #ed391b */
 		color: #fff;
 		text-decoration: none;
 		font-size: 1.75em;
@@ -2027,3 +2027,48 @@ input, select, textarea {
 			}
 
 	}
+
+/* Add overwritten bold / strong options */
+
+b, strong {
+    font-weight: bold;
+}
+
+/* Modal box */
+
+
+
+.modalDialog {
+	position: fixed;
+	font-family: 'Yanone Kaffeesatz';
+	font-size: 80%;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background: rgba(0,0,0,0.8);
+	z-index: 99999;
+	opacity:0;
+	-webkit-transition: opacity 400ms ease-in;
+	-moz-transition: opacity 400ms ease-in;
+	transition: opacity 400ms ease-in;
+	pointer-events: none;
+}
+
+.modalDialog:target {
+	opacity:1;
+	pointer-events: auto;
+}
+
+.modalDialog > div {
+	width: 1500px;
+	position: relative;
+	margin: 10% auto;
+	padding: 5px 20px 13px 20px;
+	border-radius: 5px;
+	background: #fff;
+	background: -moz-linear-gradient(#fff, #999);
+	background: -webkit-linear-gradient(#fff, #999);
+	background: -o-linear-gradient(#fff, #999);
+}
+
