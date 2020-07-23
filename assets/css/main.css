@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,200");
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,300,200");
 
 /*
 	Halcyonic by HTML5 UP
@@ -86,7 +86,7 @@ input, select, textarea {
 		background: #D4D9DD 
 		color: #474f51;
 		font-size: 13.5pt;
-		font-family: 'Yanone Kaffeesatz';
+		font-family: 'Noto Sans JP';
 		line-height: 1.85em;
 		font-weight: 300;
 	}
@@ -94,7 +94,7 @@ input, select, textarea {
 	input, textarea, select {
 		color: #474f51;
 		font-size: 13.5pt;
-		font-family: 'Yanone Kaffeesatz';
+		font-family: 'Noto Sans JP';
 		line-height: 1.85em;
 		font-weight: 300;
 	}
@@ -1471,12 +1471,12 @@ input, select, textarea {
 		}
 
 	.button-large {
-		background-image: -moz-linear-gradient(top, #e82d40, #c72535); /* #ed391b, #ce1a00 */
-		background-image: -webkit-linear-gradient(top, #e82d40, #c72535); /* #ed391b, #ce1a00 */
-		background-image: -ms-linear-gradient(top, #e82d40, #c72535); /* #ed391b, #ce1a00 */
-		background-image: linear-gradient(top, #e82d40, #c72535); /* #ed391b, #ce1a00 */
+		background-image: -moz-linear-gradient(top, #f68426, #e67b22); /* #e82d40 (red), #ed391b, #ce1a00 */
+		background-image: -webkit-linear-gradient(top, #f68426, #e67b22); /* #e82d40 (red), #ed391b, #ce1a00 */
+		background-image: -ms-linear-gradient(top, #f68426, #e67b22); /* #e82d40 (red), #ed391b, #ce1a00 */
+		background-image: linear-gradient(top, #f68426, #e67b22); /* #e82d40 (red), #ed391b, #ce1a00 */
 		display: inline-block;
-		background-color: #e82d40; /* #ed391b */
+		background-color: #f68426; /* #e82d40 (red) #ed391b */
 		color: #fff;
 		text-decoration: none;
 		font-size: 1.75em;
@@ -1548,13 +1548,13 @@ input, select, textarea {
 				/* color: #c6c8c8; */
 				color: #000000;
 				text-decoration: none;
-				font-size: 1.4em;
-				margin-left: 60px;
+				font-size: 1.3em;
+				margin-left: 30px;
 				outline: 0;
 			}
 
 				#header nav a:hover {
-					color: #f6f8f8;
+					color: #f68426;
 				}
 
 		.subpage #header > .container {
@@ -1575,7 +1575,7 @@ input, select, textarea {
 		}
 
 		#banner p {
-			font-size: 2em;
+			font-size: 1.7em;
 			font-weight: 200;
 			line-height: 1.25em;
 			padding-right: 1em;
@@ -1923,7 +1923,7 @@ input, select, textarea {
 
 				#navPanel .link {
 					display: block;
-					color: #fff;
+					color: #000000;
 					text-decoration: none;
 					font-size: 1.25em;
 					line-height: 2em;
@@ -1931,6 +1931,9 @@ input, select, textarea {
 					/* border-top: solid 1px #373d40; */
 					/* border-bottom: solid 1px rgba(0, 0, 0, 0.4); */
 				}
+					#navPanel .link:hover {
+						color: #f68426;
+					}
 
 					#navPanel .link:first-child {
 						border-top: 0;
@@ -2045,7 +2048,7 @@ b, strong {
 
 .modalDialog {
 	position: fixed;
-	font-family: 'Yanone Kaffeesatz';
+	font-family: 'Noto Sans JP';
 	font-size: 80%;
 	top: 0;
 	right: 0;
