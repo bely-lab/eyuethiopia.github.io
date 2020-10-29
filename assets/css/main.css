@@ -109,6 +109,7 @@ input, select, textarea {
 
 		a:hover {
 			text-decoration: none;
+			color: #f68426;
 		}
 
 	section > :last-child,
@@ -1491,11 +1492,11 @@ input, select, textarea {
 	}
 
 		.button-large:hover {
-			background-image: -moz-linear-gradient(top, #fd492b, #de2a10);
-			background-image: -webkit-linear-gradient(top, #fd492b, #de2a10);
-			background-image: -ms-linear-gradient(top, #fd492b, #de2a10);
-			background-image: linear-gradient(top, #fd492b, #de2a10);
-			background-color: #fd492b;
+			background-image: -moz-linear-gradient(top, #db7d1f, #c76b10);
+			background-image: -webkit-linear-gradient(top, #db7d1f, #c76b10);
+			background-image: -ms-linear-gradient(top, #db7d1f, #c76b10);
+			background-image: linear-gradient(top, #db7d1f, #c76b10);
+			background-color: #db7d1f;
 			box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.75), inset 0px 2px 0px 0px rgba(255, 192, 192, 0.5), inset 0px 0px 0px 2px rgba(255, 96, 96, 0.85), 3px 3px 3px 1px rgba(0, 0, 0, 0.15);
 		}
 
@@ -1536,6 +1537,9 @@ input, select, textarea {
 				color: #fff;
 				text-decoration: none;
 			}
+				#header h1 a:hover {
+					color: #f68426;
+				}
 
 		#header nav {
 			position: absolute;
@@ -1601,6 +1605,9 @@ input, select, textarea {
 		#features a {
 			color: #e0e8eb;
 		}
+			#features a:hover {
+				color: #f68426;
+			}
 
 		#features strong {
 			color: #fff;
@@ -1635,6 +1642,10 @@ input, select, textarea {
 		#content a {
 			color: #ED391B;
 		}
+
+			#content a:hover {
+				color: #f68426;
+			}
 
 		#content header {
 			margin: 0 0 2em 0;
@@ -1671,6 +1682,10 @@ input, select, textarea {
 			color: #546b76;
 		}
 
+			#footer a:hover {
+				color: #f68426;
+			}
+
 		#footer .quote-list li {
 			border-top: solid 1px #e0e4e6;
 			border-bottom: solid 1px #b5bec3;
@@ -1700,6 +1715,10 @@ input, select, textarea {
 		#copyright a {
 			color: #8d9ca3;
 		}
+
+			#copyright a:hover {
+				color: #f68426;
+			}
 
 /* Large */
 
@@ -1758,6 +1777,12 @@ input, select, textarea {
 			#header nav a {
 				font-size: 1.1em;
 			}
+				#header nav a:hover {
+					font-size: 1.1em;
+					color: #f68426
+				}
+
+
 
 		/* Content */
 
