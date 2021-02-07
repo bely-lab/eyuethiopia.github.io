@@ -24,6 +24,11 @@ section, summary, time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;}
 
+u {
+  -webkit-text-decoration-color: #f68426;
+  text-decoration-color: #f68426;
+}
+
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
@@ -1855,7 +1860,7 @@ input, select, textarea {
 				-ms-transition: -ms-transform 0.5s ease;
 				transition: transform 0.5s ease;
 				display: block;
-				height: 44px;
+				height: 45px;
 				left: 0;
 				position: fixed;
 				top: 0;
@@ -1863,7 +1868,7 @@ input, select, textarea {
 				z-index: 10001;
 				/* color: #fff; */
 				color: #fff;
-				background: url("images/bg05.png");
+				background: url("images/eyu_logo_mobile.png");
 				box-shadow: inset 0px -20px 70px 0px rgba(200, 220, 245, 0.1), inset 0px -1px 0px 0px rgba(255, 255, 255, 0.1), 0px 1px 7px 0px rgba(0, 0, 0, 0.6);
 				text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);
 			}
