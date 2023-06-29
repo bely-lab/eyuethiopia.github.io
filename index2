@@ -1,0 +1,281 @@
+<!DOCTYPE HTML>
+<!--
+	Halcyonic by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Eyu-Ethiopia</title> 
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="icon" type="image/svg+xml" href="images/favicon.svg" sizes="any">
+	</head>
+	<body>
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<section id="header">
+					<div class="container">
+						<div class="row">
+							<div class="col-12">
+
+								<!-- Logo -->
+									<h1><a><img src="images/eyu_logo2_small.png" alt="images/eyu_logo2_small.png" style="width:314px" /></a></h1>
+
+								<!-- popup picture
+									<div class="popup">
+  									<img src="http://web.mit.edu/adnane/www/adnan/construction.gif" width="20%" height="auto">
+  									<div align="center">
+									</div>
+									<div class="show">
+ 										<div class="overlay"></div>
+  										<div class="img-show">
+    										<span>X</span>
+    										<img src="">
+  										</div>
+									</div>
+								-->
+
+								<!-- Nav -->
+									<nav id="nav">
+										<a href="index.html">Homepage</a>
+										<a href="about_us.html">About Us</a>
+										<a href="our_work.html">Our Work</a>
+										<a href="fin_sust.html">Financial Sustainability</a>
+										<a href="help.html">How to Help</a>
+									</nav>
+
+							</div>
+						</div>
+					</div>
+					<div id="banner">
+						<div class="container">
+							<div class="row">
+								<div class="col-4 col-6-small">
+
+									<!-- Banner Copy -->
+										<p>Serving for sight.</p>
+										<a href="donate.html" class="button-large">Donate</a>
+
+								</div>
+								<div class="col-6 col-12-large imp-large">
+
+									<!-- Banner Image -->
+										<a href="#" class="bordered-feature-image"><img src="images/hom.jpg" alt="" /></a>
+
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+
+			<!-- Features -->
+				<section id="features">
+					<div class="container">
+						<div class="row">
+							<div class="col-3 col-6-medium col-12-small">
+
+								<!-- Feature #1 -->
+									<section>
+										<a href="#" class="bordered-feature-image"><img src="images/Research_small.jpg" alt="" /></a>
+										<h2>Research</h2>
+										<p>
+											We generate evidence on eye health challenges, management strategies and their impacts through epidemiological, clinical and implementation research.
+										</p>
+									</section>
+
+							</div>
+							<div class="col-3 col-6-medium col-12-small">
+
+								<!-- Feature #2 -->
+									<section>
+										<a href="#" class="bordered-feature-image"><img src="images/Training2_small.jpg" alt="" /></a>
+										<h2>Training</h2>
+										<p>
+											We empower and build the capacity of eye health and vision rehabilitation health workers by providing various on the job theoretical and practical trainings and opportunities on eye care services delivery, vision rehabilitation, and research in collaboration with local and international academic institutions.
+										</p>
+									</section>
+
+							</div>
+							<div class="col-3 col-6-medium col-12-small">
+
+								<!-- Feature #3 -->
+									<section>
+										<a href="#" class="bordered-feature-image"><img src="images/Services_small.jpg" alt="" /></a>
+										<h2>Services</h2>
+										<p>
+											We implement an integrated and comprehensive eye care service delivery programme to reduce the burden of avoidable blindness and other non-vision impairing but disabling conditions by promoting awareness and integrating case identification and referral at all levels of the health care system.
+										</p>
+									</section>
+
+							</div>
+							<div class="col-3 col-6-medium col-12-small">
+
+								<!-- Feature #4 -->
+									<section>
+										<a href="#" class="bordered-feature-image"><img src="images/Rehabilitation_small.jpg" alt="" /></a>
+										<h2>Rehabilitation</h2>
+										<p>
+											We are engaged in vision rehabilitation programmes to help restore the functional abilities and improve the quality of life of persons with low vision or blindness. 
+										</p>
+									</section>
+
+							</div>
+						</div>
+					</div>
+				</section>
+
+			<!-- Content -->
+				<section id="content">
+					<div class="container">
+						<div class="row aln-center">
+							<div class="col-4 col-12-medium">
+
+								<!-- Box #1 -->
+									<section>
+										<header>
+											<h3>Contact Us</h3>
+											<!-- <h3>A subheading about who we are</h3> -->
+										</header>
+										<!-- <a href="#" class="feature-image"><img src="images/pic05.jpg" alt="" /></a> -->
+										<p>
+											Physical Address: Ambaye Building, House number A061<br>
+											Kebele 07, Belay Zeleke Sub-city<br>
+											Bahirdar, Ethiopia <br>
+											P.O. Box: 1718 <br>
+											Telephone: (251-58) 3207733 <br>
+											Fax: (251-58) 320 886 <br>
+											Email: info@eyuethiopia.org <br>
+											<br>
+											አምባየ ህንፃ፣ የቤት ቁጥር A061 <br>
+											ቀበሌ 07፣ በላይ ዘለቀ ክ/ከተማ <br>
+											ባህርዳር፣ ኢትዮጵያ <br>
+											ፖ.ሳ.ቁ: 1718 <br>
+											ስልክ: (251-58) 3207733 <br>
+											ፋክስ: (251-58) 320 886 <br>
+											ኢሜል: info@eyuethiopia.org <br>
+
+										</p>
+									</section>
+
+							</div>
+							<div class="col-4 col-6-medium col-12-small">
+
+								<!-- Box #2 -->
+									<section>
+										<header>
+											<h3>News, Updates & Resources</h3>
+											<!-- <h3>A subheading about what we do</h3> -->
+										</header>
+										<ul>
+											<li>Access <a href="https://cehjournal.org/wp-content/uploads/Editorial.pdf"/>this link</a> to read an editorial in the Community Eye Health Journal on responding to COVID19 in eye health.</li><br>
+
+											<li>Access <a href="https://www.cehjournal.org/article/covid-19-and-eye-care-services-in-ethiopia/"/>this link</a> to read about the impacts of COVID19 on eyecare services in Ethiopia.</li><br>
+
+											<li>Access <a href="https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(19)30201-9/fulltext"/>this link</a> to read on the results of a randomised controlled trial comparing the long-term outcomes of the two commonly used eyelid surgical procedures to treat the blinging stage of trachoma (trachomatous trichiasis). </li><br>
+
+											<li>Access <a href="https://iceh.lshtm.ac.uk/blog-from-esmael-habtamu-ali-phd-co-lead-educator-for-eliminating-trachoma-mooc/"/>this link</a> to read a blog by Dr Esmael Habtamu on trachoma, the global effort to eliminate it and the Eliminating Trachoma MOOC at ICEH, LSHTM.</li><br>
+										</ul>
+									</section>
+
+							</div>
+							<div class="col-4 col-6-medium col-12-small">
+
+								<!-- Box #3 -->
+									<section>
+										<header>
+											<h3>Social Media</h3>
+											<!-- <h3>Get some great references (e.g. LHTM president)</h3> -->
+										</header>
+										<ul class="quote-list">
+											<li>
+												<!-- <<img src="images/linkedin.png" alt="" />-->
+												<a href="#"><img src="images/linkedin.png" alt="" style="width:64px" /></a>
+												<!-- <<p>"Neque nisidapibus mattis"</p>-->
+												<!-- <<span>LinkedIn</span>-->
+											</li>
+											<li>
+												<!-- <<img src="images/twitter.png" alt="" />-->
+												<a href="#"><img src="images/twitter.png" alt="" style="width:64px"/></a>
+												<!-- <<p>"Lorem ipsum consequat!"</p>-->
+												<!-- <<span>Twitter</span>-->
+											</li>
+											<li>
+												<!-- <<img src="images/facebook.png" alt="" />-->
+												<!-- <<p>"Magna veroeros amet tempus"</p>-->
+												<a href="#"><img src="images/facebook.png" alt="" style="width:64px"/></a>
+												<!-- <<span>Facebook</span>-->
+											</li>
+										</ul>
+									</section>
+
+							</div>
+						</div>
+					</div>
+				</section>
+
+			<!-- Footer -->
+				<section id="footer">
+					<div class="container">
+						<div class="row">
+							<div class="col-8 col-12-medium">
+
+								<!-- Links -->
+									<section>
+										<h2>Sitemap</h2>
+										<div>
+											<div class="row">
+												<div class="col-3 col-12-small">
+													<ul class="link-list last-child">
+														<li><a href="index.html">Homepage</a></li>
+														<li><a href="about_us">About Us</a></li>
+														<li><a href="our_work">Our Work</a></li>
+														<li><a href="fin_sust.html">Financial Sustainability</a></li>
+													</ul>
+												</div>
+												<div class="col-3 col-12-small">
+													<ul class="link-list last-child">
+														<li><a href="help.html">How to Help</a></li>
+														<li><a href="donate.html">Donate</a></li>
+													</ul>
+												</div>
+											</div>
+										</div>
+									</section>
+
+							</div>
+							<div class="col-4 col-12-medium imp-medium">
+
+								<!-- Blurb -->
+									<section>
+										<h2>Disclaimer</h2>
+										<p>
+											Eyu-Ethiopia is a board-led, non-governmental local charity organisation registered by the Federal Democratic Republic of Ethiopia Agency for Civil Society Organisations with registry number 4209 on June 11, 2019 in accordance with the Civil Society Organisations Proclamation No. 1113/2019.     
+
+											Should you have any questions or inquiries on the content of this website, please contact us through one of the options provided above. 
+										</p>
+									</section>
+
+							</div>
+						</div>
+					</div>
+				</section>
+
+			<!-- Copyright -->
+				<div id="copyright">
+					&copy; Eyu-Ethiopia. All rights reserved. | Design: <a href="http://html5up.net">HTML5 UP</a>, adapted by Eyu-Ethiopia, 2020.
+				</div>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
